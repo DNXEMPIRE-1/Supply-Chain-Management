@@ -1,0 +1,11 @@
+ 
+width: 1000px;
+	margin:auto;
+	margin-top:10%;
+	border:6px solid #b9715f;
+	background:#776d6d;
+}
+
+	--><a href="../admin/view_distributor.php">Distributors</a><!--
+
+		--><a href="../manufacturer/view_distributor.php">Distributors</a><!--
