@@ -1,7 +1,7 @@
 # Supply Chain Management 🌐📦
 
 <p align="center">
-  <img src="https://your-supply-chain-management-logo-url.com" alt="Supply Chain Logo" width="150">
+  <img src="https://dennisnzioki.com" alt="Supply Chain Logo" width="150">
 </p>
 
 <p align="center">Efficiently manage and control your supply chain processes for seamless operations.</p>
